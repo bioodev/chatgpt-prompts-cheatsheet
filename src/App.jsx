@@ -78,7 +78,7 @@ const App = () => {
       <div className="container gap-4 mx-auto ">
         <nav className="flex items-center justify-center">
           <h1 className="font-black text-gray-800">
-            CHATGPT PROMPS TO CLIPBOARD
+            CHATGPT PROMPS CHEATSHEETS TO CLIPBOARD
           </h1>
         </nav>
         <input
